@@ -16,7 +16,7 @@ public class att10 {
 
             
             System.out.print("Escolha uma opção: ");
-            opcao = scanner.nextLine().toUpperCase(); // Lê a opção e converte para maiúsculo
+            opcao = scanner.nextLine().toUpperCase(); 
 
             
             switch (opcao) {
